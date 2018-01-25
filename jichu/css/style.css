@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding:0;
+    list-style: none;
+}
+body,html{
+}
+.wrap{
+    width: 500px;
+    height: 300;
+    margin:100px auto;
+}
+.wrap .demo_tit{
+    width: 480px;
+    height: 35px;
+    background: #fcc;
+    line-height: 35px;
+    padding:0 10px;
+}
+.btn_right{
+    float: right;
+    cursor: pointer;
+}
+.content{
+    border:solid 1px #ccc;
+    border-top:none;
+    height: 265px;
+    text-align: center;
+    line-height: 265px;
+}
